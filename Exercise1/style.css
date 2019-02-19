@@ -1,0 +1,32 @@
+h1{
+	color: plum;
+	text-align: center;
+	}
+
+h3{
+	font-family: Arial;
+	color: blue;
+}
+
+#garisbawah{
+	text-decoration: underline;
+}
+
+#huruftebal{
+	text-decoration: bold;
+}
+
+.col{
+		font-family: Arial;
+		color: black;
+        background-color: plum;
+        margin: 5px;
+        padding: 5px;
+}
+.imgcenter{
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+	width: 400px;
+	height: 300px;
+}
